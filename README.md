@@ -19,7 +19,7 @@ TBC
 ## Authors
 
 * **Harm De Wet** 
-* **Vukosi Marivate** - [@vukosi](https://twitter.com/vukosi]
+* **Vukosi Marivate** - [@vukosi](https://twitter.com/vukosi)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
