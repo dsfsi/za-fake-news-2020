@@ -1,16 +1,10 @@
 # South African Disinformation [Fake News] Website Data - 2020
 
-## About Dataset
+## Dataset Informatin
 
-TBC
+We used, as sources, investigations by the news websites MyBroadband (https://mybroadband.co.za/forum/threads/list-of-known-fake-news-sites-in-south-africa-and-beyond.879854/) and News24 (https://exposed.news24.com/the-website-blacklist/). These articles covered investigations into disinformation websites in South Africa in 2018. They compiled lists of websites that were suspected to be disinformation. During the period from those articles to present, a number of the websites have become inaccessible or offline. We attempted to use the internet archives WayBack Machine we could only get partial snapshots and error messages.
 
-## About Data collection methodology
-
-TBC
-
-### Description of the data
-
-TBC
+A web-scraper only worked for one of the sources although manual editing was still required to clean the text from Javascript code and some paragraph duplicates. On most of the other websites, a web-scraper did not work well as there were too many advertisements and broken parts of pages. Because of all these problems, most of the articles were manually copied and pasted and cleaned in flat files. In some cases, the text of articles could not be copied and was not made part of the South African disinformation corpus.
 
 ## Online Repository link
 
