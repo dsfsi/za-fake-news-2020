@@ -17,6 +17,18 @@ A web-scraper only worked for one of the sources although manual editing was sti
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
+## Citing the dataset
+
+To appear in conference proceedings
+
+>@article{dewet2021fakenews,
+	Author = {Harm, de Wet and
+                  Marivate, Vukosi},
+	Journal = {Africon 2021},
+	Title = {Is it Fake? News Disinformation Detection on South African News Websites},
+	Year = {2021},
+}
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
