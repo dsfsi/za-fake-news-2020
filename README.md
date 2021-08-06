@@ -24,7 +24,7 @@ To appear in conference proceedings
 >@article{dewet2021fakenews,
 	Author = {Harm, de Wet and
                   Marivate, Vukosi},
-	Journal = {Africon 2021},
+	Journal = {Proceedings of the IEEE Region 8 Conference AFRICON 2021},
 	Title = {Is it Fake? News Disinformation Detection on South African News Websites},
 	Year = {2021},
 }
