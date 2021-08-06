@@ -15,7 +15,7 @@ A web-scraper only worked for one of the sources although manual editing was sti
 * **Harm De Wet** 
 * **Vukosi Marivate** - [@vukosi](https://twitter.com/vukosi)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/dsfsi/za-fake-news-2020/contributors) who participated in this project.
 
 ## Citing the dataset
 
