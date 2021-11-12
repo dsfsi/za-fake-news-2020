@@ -1,6 +1,6 @@
 # South African Disinformation [Fake News] Website Data - 2020
 
-## Dataset Informatin
+## Dataset Information
 
 We used, as sources, investigations by the news websites MyBroadband (https://mybroadband.co.za/forum/threads/list-of-known-fake-news-sites-in-south-africa-and-beyond.879854/) and News24 (https://exposed.news24.com/the-website-blacklist/). These articles covered investigations into disinformation websites in South Africa in 2018. They compiled lists of websites that were suspected to be disinformation. During the period from those articles to present, a number of the websites have become inaccessible or offline. We attempted to use the internet archives WayBack Machine we could only get partial snapshots and error messages.
 
@@ -19,14 +19,13 @@ See also the list of [contributors](https://github.com/dsfsi/za-fake-news-2020/c
 
 ## Citing the dataset
 
-To appear in conference proceedings
-
->@article{dewet2021fakenews,
-	Author = {Harm, de Wet and
-                  Marivate, Vukosi},
-	Journal = {Proceedings of the IEEE Region 8 Conference AFRICON 2021},
-	Title = {Is it Fake? News Disinformation Detection on South African News Websites},
-	Year = {2021},
+>@inproceedings{de2021fake,
+  title={Is it Fake? News Disinformation Detection on South African News Websites},
+  author={de Wet, Harm and Marivate, Vukosi},
+  booktitle={2021 IEEE AFRICON},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
 }
 
 ## License
