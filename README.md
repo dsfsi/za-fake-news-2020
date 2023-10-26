@@ -1,5 +1,8 @@
 # South African Disinformation [Fake News] Website Data - 2020
 
+Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse)
+
+
 ## Dataset Information
 
 We used, as sources, investigations by the news websites MyBroadband (https://mybroadband.co.za/forum/threads/list-of-known-fake-news-sites-in-south-africa-and-beyond.879854/) and News24 (https://exposed.news24.com/the-website-blacklist/). These articles covered investigations into disinformation websites in South Africa in 2018. They compiled lists of websites that were suspected to be disinformation. During the period from those articles to present, a number of the websites have become inaccessible or offline. We attempted to use the internet archives WayBack Machine we could only get partial snapshots and error messages.
